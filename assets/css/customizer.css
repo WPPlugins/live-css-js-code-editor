@@ -1,0 +1,15 @@
+/* Preview button */
+.button.lce-preview-button {
+    margin: 5px 0;
+    width: 100%;
+}
+
+/* Editor styles */
+.lce-code-editor {
+    border: 1px solid #ccc;
+	height: 380px;
+	top: 5px;
+}
+.ace_editor.ace_autocomplete {
+	z-index: 100000000 !important;
+}
